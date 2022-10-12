@@ -1,0 +1,17 @@
+{
+  "name": "intellif-video",
+  "productName": "intellif-video",
+  "version": "1.0.2",
+  "description": "云天励飞RTSP播放器",
+  "main": "main.js",
+  "author": "zengkefan|zhongxin",
+  "license": "MIT",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "axios": "^0.27.2",
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "winreg": "^1.2.4",
+    "ws": "^8.5.0"
+  }
+}
